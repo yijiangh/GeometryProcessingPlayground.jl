@@ -1,5 +1,7 @@
 module GeometryProcessingPlayground
 
-# Write your package code here.
+# import FileIO
+# using GLMakie
+# include("visualize.jl")
 
 end

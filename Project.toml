@@ -3,6 +3,18 @@ uuid = "6ed5347b-8131-4f51-9982-1ce2133915a9"
 authors = ["Yijiang Huang <yijiangh@mit.edu> and contributors"]
 version = "0.1.0"
 
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+JLD = "4138dd39-2aa7-5051-a626-17a0bb65d9c8"
+MeshIO = "7269a6da-0436-5bbc-96c2-40638cbb6118"
+MeshViz = "9ecf9c4f-6e5a-4b5e-83ae-06f2c7a661d8"
+Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
 [compat]
 julia = "1.6"
 
